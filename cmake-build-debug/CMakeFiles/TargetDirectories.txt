@@ -1,0 +1,3 @@
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/cmake-build-debug/CMakeFiles/Klassen_Funktionen.dir
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

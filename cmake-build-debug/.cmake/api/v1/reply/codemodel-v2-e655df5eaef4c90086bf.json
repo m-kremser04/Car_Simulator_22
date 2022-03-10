@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Klassen_Funktionen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Klassen_Funktionen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Klassen_Funktionen-Debug-d4f89ff8b7109e06b2c0.json",
+					"name" : "Klassen_Funktionen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/cmake-build-debug",
+		"source" : "C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/MyCar.h
+iostream
+-
+
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/main.cpp
+MyCar.h
+C:/Users/markus.kremser/OneDrive - Landesberufsschule 4/c++/CLionProjects/Klassen_Funktionen/MyCar.h
+windows.h
+-
+
